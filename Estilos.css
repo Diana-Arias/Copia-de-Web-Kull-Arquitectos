@@ -532,6 +532,9 @@ align-items: center;
 
 /* Sección Contacto*/
 
+.contacto h1{
+	margin-top: 50px;
+}
 
 .contacto__texto{
 	margin-bottom: 50px;

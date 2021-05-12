@@ -1,0 +1,27 @@
+body {
+  font: 100% Helvetica, sans-serif;
+  color: black; }
+
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none; }
+nav li {
+  display: inline-block; }
+nav a {
+  display: block;
+  padding: 6px 12px;
+  text-decoration: none; }
+
+h1 {
+  color: black; }
+
+h2 {
+  color: black;
+  font-style: italic; }
+
+p {
+  color: black;
+  font-size: 18px; }
+
+/*# sourceMappingURL=:estilos-2.css.map */
